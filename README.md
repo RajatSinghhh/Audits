@@ -1,4 +1,4 @@
-# 🔍 Danny Singh's Smart Contract Audits
+# 🔍 Rajat Singh's Smart Contract Audits
 
 Welcome to my personal audit repository where I document smart contract security reviews conducted across various DeFi protocols and Web3 projects.
 
@@ -45,13 +45,13 @@ I follow a consistent and rigorous auditing approach:
 
 - 🔗 [Jigsaw Finance Audit Thread](https://twitter.com/your-handle/status/...)
 
-> Follow me on [Twitter](https://twitter.com/your-handle) for real-time audit updates and insights.
+> Follow me on [Twitter](https://x.com/Rajat_singhhh) for real-time audit updates and insights.
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm Danny Singh — a Web3 security researcher & smart contract auditor passionate about DeFi, modular account systems, and protocol safety.
+I'm Rajat Singh — a Web3 security researcher & smart contract auditor passionate about DeFi, modular account systems, and protocol safety.
 
 - 🧠 Deep in Solidity, Foundry, and protocol internals  
 - 🛡️ Contributor to community contests on Cantina, Sherlock, CodeHawks  
@@ -61,8 +61,8 @@ I'm Danny Singh — a Web3 security researcher & smart contract auditor passiona
 
 ## 📬 Contact
 
-- Twitter: [@your-handle](https://twitter.com/your-handle)
-- Email: your.email@domain.com
+- Twitter: [@Rajat_singhhh](https://x.com/Rajat_singhhh)
+- Email: rajatsingh321001@gmail.com
 - Website: [auditdrop.com](https://auditdrop.com)
 
 ---
